@@ -1,21 +1,21 @@
 # Site settings
-title: Thomas Zühlke
+title: Joost Gadellaa
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'http://joostgadellaa.nl'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
+profilepic: '/images/joostgadellaa.jpeg'
+bkimage: '/images/DSC_6093.jpeg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'Joost Gadellaa'
+  email: mail@joostgadellaa.nl
+#  twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  joostgadellaa
+  linkedin_username:  joostgadellaa
+#  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
